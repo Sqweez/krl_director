@@ -1,0 +1,18 @@
+body, .login-btn {
+  background-color: #424b58;
+}
+
+.login-text,
+.login-link-forgot-pass {
+  display: none;
+}
+
+body {
+  min-height: 0;
+  min-weight: 0;
+}
+
+.log-popup {
+  width: 850px;
+  height: 700px;
+}
